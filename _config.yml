@@ -20,82 +20,54 @@ skills:
  - Computer Vision
  - Python
  - Machine Learning
+ - ML/DL stack: numpy, scikit-learn, pandas, Tensorflow
  - C++
  - SQL
+ - Map-Reduce
  - Mathematics
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+ - title: Software Developer
+   start: Feb 2018
+   end: Present
+   employer: Yandex Technologies
+   description: Development of computer vision technologies: factors for search engine and common using, image quality enhancement
+ - title: Junior Data Analyst
+   start: Aug 2017
+   end: Feb 2018
+   employer: Yandex data Factory
+   description: Development of moderation systems, machine learning for gold mining industry.
+ - title: Analyst Intern
+   start: March 2017
+   end: August 2017
+   employer: Yandex Data Factory
+   description: Doing image classification for moderation systems, machine learning for oil industry.
+ - title: Developer Intern
+   start: October 2017
+   end: January 2018
+   employer: IBM
+   description: Development of projects using data analysis technologies.
+ - title: Summer Intern
+   start: June 2017
+   end: August 2017
+   employer: QB Financt
+   description: Working on a financial trading algorithms using machine learning.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   date: 2019
+   subject: Applied Mathematics and Informatics
+   school: Moscow Institute Of Physics and Technologies
+ - level: Master of Science (B.Sc.)
+   date: 2019
+   subject: Applied Mathematics and Informatics
+   school: Moscow Institute Of Physics and Technologies
+- level: Master of Science (B.Sc.)
+   date: 2019
+   subject: Big Data
+   school: Yandex Data Analisys School
 
 intro: |
   I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
