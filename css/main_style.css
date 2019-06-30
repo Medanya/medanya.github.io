@@ -34,6 +34,10 @@ table {
 	text-align:center
 }
 
+#skills {
+	font-size:20px;
+}
+
 #masthead {
 	height:50px;
 	min-width: 1000px;
@@ -227,7 +231,6 @@ h2 {
 	background-color: #ff6840;
 	color: #ffd873;
 }
-
 
 
 .search-row > td{
