@@ -18,10 +18,11 @@ skills:
  - Computer Vision
  - Python
  - Machine Learning
- - "ML/DL stack"
+ - Tensorflow
  - C++
  - SQL
  - Map-Reduce
+ - Sklearn, opencv, pandas
  - Mathematics
 
 #Work experience is required
@@ -35,7 +36,7 @@ roles:
    start: Aug. 2017
    end: Feb. 2018
    employer: Yandex data Factory
-   description: Development of moderation systems, machine learning for gold mining industry.
+   description: Development of moderation systems, machine learning for gold mining and oil industry.
  - title: Analyst Intern
    start: Mar. 2017
    end: Aug. 2017
@@ -50,7 +51,7 @@ roles:
    start: Jun. 2017
    end: Aug. 2017
    employer: QB Finance
-   description: Working on a financial trading algorithms using machine learning.
+   description: Working on a financial trading algorithms using machine learning and deep learning.
 
 #Education is required
 education:
@@ -68,6 +69,12 @@ education:
    school: Moscow Institute Of Physics and Technologies
 
 intro: |
+  I am a developer with 2.5 years experience in computer vision. I have experience in deep learning for applied tasks using tensorlfow and deploy using python and C++. I like to read articles in the field of artificial intelligence and try interesting ideas in practice. Our sphere is developing so rapidly! I get pleasure when machine learning really helps people and saves resources.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   
+  I have a publication in the field of random graphs (<a href="http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mzm&paperid=10853&option_lang=eng">link</a>) <br> <br>
+
+  My bachelor thesis is on the topic of machine learning for fMRI data. We have found that audio data can be used to statistically significantly predict the activation of brain zones (<a href="https://yadi.sk/d/V1cJOJmr3JLibW">link </a>). <br> <br>
+
+  I have been playing chess for a long time and have the title of candidate to the master. Now I like to read chess news and watch broadcasts. <br> <br>
+
